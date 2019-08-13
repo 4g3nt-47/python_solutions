@@ -1,3 +1,5 @@
+# @author : Krrish
+
 x1=int(input("enter x1"))
 
 x2=int(input("enter x2"))
