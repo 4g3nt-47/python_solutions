@@ -1,6 +1,5 @@
 # Traversing a tree using Breath First Search
-
-
+# @author: Krrish
 
 class Node(object):
 
