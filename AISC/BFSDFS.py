@@ -1,6 +1,5 @@
 # Traversing a tree using Breath First Search & Depth First Search
 # @author: Krrish
-
 #Breadth First Search
 class Node(object):
 
