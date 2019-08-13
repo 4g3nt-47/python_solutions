@@ -1,6 +1,7 @@
-# Traversing a tree using Breath First Search
+# Traversing a tree using Breath First Search & Depth First Search
 # @author: Krrish
 
+#Breadth First Search
 class Node(object):
 
 	def __init__(self, value):
